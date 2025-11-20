@@ -2,7 +2,6 @@
 # Expense Tracker (Python + SQLite)
 
 A very simple console-based Expense Tracker built using Python and SQLite.  
-This project is suitable for DBMS practicals and includes SQL queries such as:
 
 - CREATE TABLE
 - INSERT
